@@ -7,7 +7,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Yogas</title>
     <link rel="preconnect" href="https://fonts.gstatic.com">
-    <link rel="stylesheet" href="CSS/yoga.css">
+    <link rel="stylesheet" href="../CSS/yoga.css">
     <!-- links for tooltips bootstrap and js -->
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.1/dist/css/bootstrap.min.css" rel="stylesheet"
         integrity="sha384-+0n0xVW2eSR5OomGNYDnhzAbDsOXxcvSN1TPprVMTNDbiYZCxYbOOl7+AMvyTG2x" crossorigin="anonymous">
@@ -25,9 +25,8 @@
     <!-- tooltip er animation -->
     <link rel="stylesheet" href="https://unpkg.com/tippy.js@6/animations/scale.css" />
 
-    <!-- brand er jonne font -->
-    <link href="https://fonts.googleapis.com/css2?family=Acme&display=swap" rel="stylesheet">
-    
+
+
     <!-- yoga_txt er font -->
     <link href="https://fonts.googleapis.com/css2?family=Bree+Serif&display=swap" rel="stylesheet">
 
@@ -47,7 +46,13 @@
 
 <body>
     <section id="title">
-        <div><h1 id="brand" style="position: absolute; top: 10px; z-index:1;  font-family: 'Acme', sans-serif; left: 30px; font-size: 1.5rem; color: white;">Co-winn</h1></div>
+        <ul>
+            <li><a href="default.asp">Co-Winn</a></li>
+            <li><a href="default.asp">Home</a></li>
+            <li><a href="news.asp">About</a></li>
+            <li><a href="contact.asp">Login</a></li>
+
+        </ul>
 
         <div id="yoga" style=" text-align: center;"></div>
         <div id="yogatxt_div">
@@ -67,7 +72,7 @@
             <h1 id="follow">Yogas to follow :</h1>
 
             <div id="pose1" data-aos="fade-right" data-aos-duration="700">
-                <img src="images/cobrapose.jpg" id="cobra" alt="">
+                <img src="../Images/cobrapose.jpg" id="cobra" alt="">
                 <p id="cobtxt"><strong>Bhujangasana</strong> (Sanskrit: भुजङ्गासन; IAST: Bhujaṅgāsana) or Cobra Pose[1]
                     is a reclining
                     back-bending asana in hatha yoga and modern yoga as exercise.[2] It is commonly performed in a cycle
@@ -83,7 +88,7 @@
 
 
             <div id="pose2" data-aos="fade-left" data-aos-duration="700">
-                <img src="images/sarva.jpg" id="cobra" alt="">
+                <img src="../Images/sarva.jpg" id="cobra" alt="">
                 <p id="cobtxt"><strong>Setu Bandha Sarvāṅgāsana</strong> (Sanskrit: सेतु बन्ध सर्वाङ्गासन), Shoulder
                     supported bridge or
                     simply Bridge, also called Setu Bandhāsana, is an inverted back-bending asana in hatha yoga and
@@ -98,7 +103,7 @@
             </div>
 
             <div id="pose3" data-aos="fade-right" data-aos-duration="700">
-                <img src="images/dhanur.jpg" id="cobra" alt="">
+                <img src="../Images/dhanur.jpg" id="cobra" alt="">
                 <p id="cobtxt"><strong>Dhanurasana</strong> (Sanskrit: धनुरासन; IAST: Dhanurāsana), Bow pose is a
                     backbending
                     asana in hatha yoga and modern yoga as exercise.
@@ -131,7 +136,7 @@
 
     <script src="https://unpkg.com/aos@next/dist/aos.js"></script>
     <script>
-      AOS.init();
+        AOS.init();
     </script>
 </body>
 

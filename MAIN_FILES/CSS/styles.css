@@ -14,7 +14,7 @@
 #An {
     font-family: "Ubuntu", sans-serif;
     font-size: 4rem;
-    padding-top: 80px;
+
     padding-left: 50px;
     width: 85%;
     animation: an;
@@ -38,7 +38,7 @@
     padding-top: 50px;
 }
 
-.fa-google-play:hover{
+.fa-google-play:hover {
     color: black;
 }
 
@@ -59,41 +59,44 @@
 
 .close {
     cursor: pointer;
-    position: relative; 
-    bottom: 180px; 
-    left: 318px; 
-    font-weight: 700; 
-    font-size: 25px; 
-    transform: rotate(45deg); 
+    position: relative;
+    bottom: 180px;
+    left: 318px;
+    font-weight: 700;
+    font-size: 25px;
+    transform: rotate(45deg);
     display: inline-block;
     color: white;
-    
+
 }
 
-#email-div{
+#email-div {
     position: relative;
     bottom: 60px;
 }
+
 #inputemail {
     width: 75%;
     border-radius: 20px;
     border-color: black;
 }
 
-#pass-div{
+#pass-div {
     position: relative;
     bottom: 40px;
 }
+
 #InputPassword {
     width: 75%;
     border-radius: 20px;
     border-color: black;
 }
 
-#rem-div{
+#rem-div {
     position: relative;
     bottom: 20px;
 }
+
 #sbmtbtn {
     border-radius: 10px;
     width: 130px;
@@ -213,13 +216,7 @@
     font-size: 1rem;
 }
 
-#social {
-    text-align: center;
-    margin-top: 180px;
-    background-color: #ffffc7;
-    padding-top: 50px;
-    padding-bottom: 50px;
-}
+
 
 #con_txt {
     color: black;
