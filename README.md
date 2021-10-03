@@ -1,17 +1,14 @@
-
-
 # Hacktoberfest Project
 
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/MSCKIIT/MSCxHacktoberfest "Repo Maintained")
 [![Ask Me Anything !](https://img.shields.io/badge/Ask%20Us-Anything-1abc9c.svg)](https://github.com/MSCKIIT/MSCxHacktoberfest "github.com/akashchouhan16")
 
-
 ![image](https://user-images.githubusercontent.com/54741119/135616430-3c9ae1c6-98f4-4c0f-b40a-7c5bc52b58d5.png)
 
-
-> **Note**  
-> * All genuine Pull Requests are most welcomed! 😊
-> * Any contributor violating the `CONTRIBUTING.md` guidelines shall be marked as invalid or spam. 🚫
+> **Note**
+>
+> - All genuine Pull Requests are most welcomed! 😊
+> - Any contributor violating the `CONTRIBUTING.md` guidelines shall be marked as invalid or spam. 🚫
 
 ---
 
@@ -23,7 +20,7 @@ Want a very simple explanation on how to generate a PR?
 2. `Star` the Repo
 3. `Clone` the Repo
 4. Make Valid Contributions
-5. Create a `PR` 
+5. Create a `PR`
 
 ---
 
@@ -47,48 +44,46 @@ If you have any doubts regarding "How to create your first PR?", then checkout t
 ---
 
 ## Hacktoberfest 2021 | FAQs
-   
 
 **<details><summary>What is Open Source?</summary>**
 <br>Open source refers to source code that is publicly accessible and allows anyone to inspect, modify or learn from it. Open source projects encourage collaboration and the freedom to use the software for any purpose you wish.</details>
 
 **<details><summary>What is Hacktoberfest?</summary>**
 <br>Hacktoberfest is a month-long global celebration of open source software run by DigitalOcean in partnership with Intel, AppWrite, and DeepSource, with a strong focus on encouraging contributions to open source projects.</details>
-   
+
 **<details><summary>What are Pull Requests?</summary>**
 <br>Pull requests are proposed code changes you can submit to a branch in a repository on GitHub/GitLab. Once submitted, a project maintainer will review and discuss the changes before they become final.</details>
 
 **<details><summary>What is GitHub & GitLab?</summary>**
 <br>GitHub, Inc. is a provider of Internet hosting for software development and version control using Git. It offers the distributed version control and source code management functionality of Git, plus its own features.
 <br>GitLab is a web-based DevOps lifecycle tool that provides a Git repository manager providing wiki, issue-tracking and continuous integration and deployment pipeline features, using an open source license, developed by GitLab Inc.</details>
-   
+
 **<details><summary>Where do I register?</summary>**
 <br>The registrations are open, so register yourself on the official website of **[Hacktoberfest 2021](https://hacktoberfest.digitalocean.com)** with your GitHub Account.</details>
-   
+
 **<details><summary>What is the last date to enroll myself for the Hacktoberfest 2021?</summary>**
 <br>You can sign up anytime between October 1 to October 31, 2021. Pull Requests created between October 1 and October 31 will count, regardless of when you register for Hacktoberfest.</details>
-   
+
 **<details><summary>What do I need to learn before contributing to these Projects?</summary>**
 <br>You need to know nothing in order to understand this. But basic knowledge of development and basic coding in any language will help you move forward in this field. And **MSC KIIT** will be organizing sessions to help everyone throughout this process.</details>
-   
-**<details><summary>What do I gain after completing 4 PRs?</summary>** 
+
+**<details><summary>What do I gain after completing 4 PRs?</summary>**
 <br>You may receive a limited edition **Hacktoberfest T-shirt** in addition to the information (and fun) you'll gain.</details>
 
-
 ---
-   
+
 [![forthebadge](https://forthebadge.com/images/badges/open-source.svg)](https://forthebadge.com)
 [![forthebadge](https://forthebadge.com/images/badges/cc-0.svg)](https://forthebadge.com)
 <img src = "./utils/hacktober-fest-2021.svg"/>
 
 ---
-   
+
 ## License
 
 **[MIT License](https://github.com/MSCKIIT/MSCxHacktoberfest/blob/master/LICENSE "MSC Project License")**
 
 ---
-   
+
 ## About Me
-   
-I am trying to help the community by giving simple web-based projects.
+
+I am trying to help the community by giving simple web-based projects. And for some Legal reasons i would not like to reveal my personal information such as Social media, or name. This is a new account made to share hacktoberfest projects to help the community.
