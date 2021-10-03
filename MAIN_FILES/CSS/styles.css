@@ -12,11 +12,8 @@
 }
 
 #An {
-    font-family: "Ubuntu", sans-serif;
-    font-size: 4rem;
 
-    padding-left: 50px;
-    width: 85%;
+    font-size: 4rem;
     animation: an;
     animation-fill-mode: forwards;
     animation-duration: 2.5s;
@@ -72,7 +69,7 @@
 
 #email-div {
     position: relative;
-    bottom: 60px;
+    bottom: 100px;
 }
 
 #inputemail {
@@ -125,22 +122,17 @@
     padding-top: 100px;
 }
 
-#boost {
-    font-family: 'Aclonica', sans-serif;
-    width: 70%;
-}
+
 
 #boost2 {
     padding-top: 50px;
-    width: 70%;
-    font-family: 'Akaya Telivigala', cursive;
     position: relative;
 }
 
 
 
 #learn_btn {
-    font-family: 'Fredoka One', cursive;
+
     width: 150px;
     height: 40px;
     background-color: white;
@@ -170,7 +162,6 @@
 }
 
 #logostext {
-    font-family: 'Londrina Solid', cursive;
     font-size: 3.5rem;
 }
 
@@ -221,7 +212,7 @@
 #con_txt {
     color: black;
     font-size: 35px;
-    font-family: 'Baloo Tamma 2', cursive;
+
 }
 
 .fab {
