@@ -8,6 +8,8 @@
 > **Note**
 >
 > - All genuine Pull Requests are most welcomed! 😊
+> - Look at the issues and solve them only. Ask to get assigned.
+> - First come First Served Basis.
 > - Any contributor violating the `CONTRIBUTING.md` guidelines shall be marked as invalid or spam. 🚫
 
 ---
